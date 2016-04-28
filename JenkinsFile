@@ -1,4 +1,4 @@
-state "Dev-QA" 
+stage "Dev-QA" 
 
 node {
   git 'https://github.com/mgoode87/se441-qotd.git'
